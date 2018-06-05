@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="venue_names">
+        <item> Terra Pro wear  </item>
+        <item> Just wear  </item>
+        <item> Respect </item>
+        <item> Asia.uz  </item>
+        <item> Makro supermarket </item>
+        <item> Atlas supermarket  </item>
+        <item>  Media Park </item>
+        <item>  Red Tag </item>
+        <item>  Ricco Cizzano </item>
+        <item>  Black Star Wear </item>
+
+    </string-array>
+    <string-array name="venue_cashback_present">
+        <item>3 %  </item>
+        <item>5 % </item>
+        <item>3 % </item>
+        <item>2 % </item>
+        <item>8 % </item>
+        <item>15 % </item>
+        <item>15 % </item>
+        <item>5 % </item>
+        <item>3 % </item>
+        <item>4 % </item>
+
+    </string-array>
+
+    <string-array name="venue_phones">
+        <item> +998 71 256 9391  </item>
+        <item> +998 90 957 3544 </item>
+        <item> +998 71 129 3131  </item>
+        <item> +998 99 860 6363  </item>
+        <item> +998 71 205 1205 </item>
+        <item> +998 95 146 6888  </item>
+        <item> +998 71 203 3333 </item>
+        <item> +998 71 203 3333 </item>
+        <item> +998 71 203 3333 </item>
+        <item> +998 95 194 1313  </item>
+
+    </string-array>
+ <string-array name="venue_mails">
+        <item>info@terra_pro.uz  </item>
+        <item>info@just_wear.uz  </item>
+        <item>info@respect.uz  </item>
+        <item>info@asia.uz  </item>
+        <item>info@makro.uz  </item>
+        <item>info@atlas.uz  </item>
+        <item>info@mediapark.uz </item>
+        <item>info@red_tad.uz </item>
+        <item>info@riccocizzano.uz </item>
+        <item>info@blackstar.ru </item>
+
+    </string-array>
+ <string-array name="venue_websites">
+        <item>terrapro.uz  </item>
+        <item>just.uz  </item>
+        <item>respect.uz  </item>
+        <item>asia.uz  </item>
+        <item>makro.uz  </item>
+        <item>atlas.uz  </item>
+        <item>mediapark.uz </item>
+        <item>mediapark.uz </item>
+        <item>mediapark.uz </item>
+        <item>blackstar.ru </item>
+
+    </string-array>
+
+
+
+    <string-array name="venue_address">
+        <item> Samarqand darvoza, Karatash street, 5A, Tashkent, Uzbekistan  </item>
+        <item> Next shopping mall, Babura street 6, Tashkent , Uzbekistan </item>
+        <item> Mega Planet , Akhmad Donish street, 2B, Tashkent, Uzbekistan </item>
+        <item> Asia.uz market, 19 Little Ring Road, Tashkent, Uzbekistan  </item>
+        <item> Makro supermarket,Akhmad Donish street, 2B, Tashkent, Uzbekistan  </item>
+        <item> Atlas shopping centre, Chilonzor Tashkent, Uzbekistan  </item>
+        <item> Media Park, Karatash street, Tashkent, Uzbekistan </item>
+        <item> Samarqand darvoza, Karatash street, Tashkent, Uzbekistan </item>
+        <item> Next shopping mall, Karatash street, Tashkent, Uzbekistan </item>
+        <item> Samarqand darvoza, Karatash street, 5A, Tashkent, Uzbekistan  </item>
+    </string-array>
+
+    <array name="venue_logos">
+
+        <item> @drawable/terra_pro</item>
+        <item> @drawable/just</item>
+        <item> @drawable/respect_logo</item>
+        <item> @drawable/asia_uz</item>
+        <item> @drawable/makro_logo</item>
+        <item> @drawable/just</item>
+        <item> @drawable/mediapark</item>
+        <item> @drawable/red_tag_logo</item>
+        <item> @drawable/ricco_cizzano_logo</item>
+        <item> @drawable/black_star_logo </item>
+    </array>
+
+    <array name="venue_cover_photos">
+        <item> @drawable/terra_pro_cover</item>
+        <item> @drawable/just_cover</item>
+        <item> @drawable/respect_logo</item>
+        <item> @drawable/asia_uz_cover</item>
+        <item> @drawable/makro_logo</item>
+        <item> @drawable/atlas_cover</item>
+        <item> @drawable/mediapark</item>
+        <item> @drawable/red_tag_logo</item>
+        <item> @drawable/ricco_cizzano_cover</item>
+        <item> @drawable/black_star_cover</item>
+    </array>
+
+    <array name="photos">
+        <item> @drawable/photo1</item>
+        <item> @drawable/photo9</item>
+        <item> @drawable/photo3</item>
+        <item> @drawable/photo4</item>
+        <item> @drawable/photo5</item>
+        <item> @drawable/photo6</item>
+        <item> @drawable/photo7</item>
+        <item> @drawable/photo8</item>
+        <item> @drawable/photo9</item>
+    </array>
+
+</resources>

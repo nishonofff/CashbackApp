@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="history_date">
+        <item>  05.01.2018 </item>
+        <item> 08.01.2018  </item>
+        <item>  22.03.2018 </item>
+        <item>  14.04.2018 </item>
+        <item>  01.05.2018 </item>
+        <item>  05.01.2018 </item>
+        <item>  18.02.2018 </item>
+        <item> 09.06.2018 </item>
+        <item> 10.03.2018 </item>
+        <item> 21.02.2018 </item>
+    </string-array>
+
+    <string-array name="history_time">
+        <item> 11:00  </item>
+        <item> 20:45  </item>
+        <item> 12:35  </item>
+        <item> 22:25  </item>
+        <item>  09:45 </item>
+        <item> 14:30  </item>
+        <item> 15:40 </item>
+        <item> 14:50 </item>
+        <item> 11:20 </item>
+        <item> 14:40 </item>
+    </string-array>
+
+
+
+    <integer-array name="history_total_amount">
+        <item> 169000  </item>
+        <item>  299000 </item>
+        <item>  200000 </item>
+        <item> 150000  </item>
+        <item> 120000  </item>
+        <item> 540000  </item>
+        <item> 185000  </item>
+        <item> 3450000 </item>
+        <item> 450000 </item>
+        <item> 280000 </item>
+    </integer-array>
+ <integer-array name="history_transaction_id">
+        <item> 55244  </item>
+        <item>  75985 </item>
+        <item> 54632  </item>
+        <item> 87568 </item>
+        <item> 12542 </item>
+        <item>  32568 </item>
+        <item>  89654 </item>
+        <item> 45862 </item>
+        <item> 57895 </item>
+        <item> 95687 </item>
+    </integer-array>
+
+
+
+
+
+
+</resources>

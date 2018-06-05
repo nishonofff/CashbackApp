@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/history_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:orientation="vertical"
+    android:padding="4dp"
+    android:paddingBottom="16dp"
+
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#7affffff"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/history_venue_logo"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="start"
+                android:src="@mipmap/ic_launcher_round"
+
+                />
+            <TextView
+                android:id="@+id/history_venue_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:layout_gravity="bottom"
+                android:paddingLeft="8dp"
+                android:text="Name"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:layout_weight="2"
+                />
+
+            <TextView
+                android:id="@+id/cashback_amount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="amount"
+                android:layout_weight="3"
+                android:layout_margin="4dp"
+                android:textSize="18sp"
+                android:gravity="right"
+                />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#000"
+            android:layout_margin="1dp"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/history_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="date"
+                android:layout_weight="1"
+                android:layout_margin="4dp"
+                android:textSize="18sp"
+                android:gravity="left"
+                />
+            <TextView
+                android:id="@+id/history_timee"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="time"
+                android:layout_weight="1"
+                android:layout_margin="4dp"
+                android:textSize="18sp"
+                android:gravity="center"
+                />
+            <TextView
+                android:id="@+id/history_status"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="status"
+                android:layout_weight="1"
+                android:layout_margin="4dp"
+                android:textSize="18sp"
+                android:gravity="right"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>

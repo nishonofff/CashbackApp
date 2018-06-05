@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#899e70"
+    >
+
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="horizontal"
+       android:layout_centerInParent="true"
+       android:gravity="center"
+       >
+
+       <ImageView
+           android:id="@+id/down_image"
+           android:layout_width="wrap_content"
+           android:layout_height="130dp"
+           android:src="@drawable/credit_card" />
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:gravity="left"
+           android:padding="4dp"
+           android:text="Cashback application"
+           android:textColor="#f7f4f4"
+           android:textSize="32sp"
+           android:textStyle="bold" />
+
+   </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#95566435"
+        android:text="All rights reserved. Tashkent-2018"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textColor="#ffffff"
+        android:padding="4dp"
+        />
+
+</RelativeLayout>
